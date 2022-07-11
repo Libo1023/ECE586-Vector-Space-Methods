@@ -6,4 +6,4 @@ MP1: Markov Chains
 MP2: Least-Squares Solutions  
 MP3: Alternating Projection  
 MPX/MP4: Principal Component Analysis (Extra Credit)  
-Note: All codes can be found in folders having names such as "[lz200]_mp3"
+Note: Codes for completing project requirements can be found in folders having names such as "[lz200]_mp3"
