@@ -1,7 +1,7 @@
 # ECE586-Vector-Space-Methods
 2021 Fall Semester, Duke University  
 ECE586 - Vector Space Methods with Applications  
-Written Homework Assignments and Mini Projects  
+Written Homework Assignments + Programming Mini Projects  
 MP1: Markov Chains  
 MP2: Least-Squares Solutions  
 MP3: Alternating Projection  
